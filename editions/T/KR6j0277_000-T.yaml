@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0277/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十一面神呪心經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1071.xml
+    old_id: T20n1071
+hash: sha256:42a31e0f6f337bee1b36b79e3288e245005084f3ba884b06cb93a7311fcc8d57

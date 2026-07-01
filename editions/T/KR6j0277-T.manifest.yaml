@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0277/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0277/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十一面神呪心經
+  identifiers:
+    krp: KR6j0277
+    cbeta: T20n1071
+    cbeta_old_id: T20n1071
+    authorityid: CA0003078
+    json_key: T1071
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1071.xml
+    old_id: T20n1071
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0277_000-T.yaml, hash: 'sha256:42a31e0f6f337bee1b36b79e3288e245005084f3ba884b06cb93a7311fcc8d57'}
+  - {seq: 1, filename: KR6j0277_001-T.yaml, hash: 'sha256:3e78aeab4064befb397978993ac24b14158b0df249ce1e52b3fb3cf1c163db74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0277_000-T.markers.yaml, hash: 'sha256:c3ba9a6c646167a3f9fd5096a156289f4179ad1cf86641b3c9a3895597133899'}
+  - {seq: 1, role: markers, filename: assets/KR6j0277_001-T.markers.yaml, hash: 'sha256:86abf71de91bac14d74a8923e29e08c7eafb48491ae481d8af9a290addfd07dc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0277_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3936
+  label: 十一面神呪心經
+  type: juan
+  level: 1
+hash: sha256:503a63e216f40d3610fb84cc72df193bf267c1db1a69bb2a3f52cd50255b71fa
