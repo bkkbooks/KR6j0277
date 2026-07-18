@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6j0277_000.yaml, hash: 'sha256:42a31e0f6f337bee1b36b79e3288e245005084f3ba884b06cb93a7311fcc8d57'}
   - {seq: 1, filename: KR6j0277_001.yaml, hash: 'sha256:2a811bf79a439cde49ba34cbc5b59a8e876bd3693abd06265bfffbb150658b16'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0277_000.markers.yaml, hash: 'sha256:1589aedb03b81f1c0113c779dea7aa083a1368f5ccc687f50b8f4fb9e508d583'}
+  - {seq: 0, role: markers, filename: assets/KR6j0277_000.markers.yaml, hash: 'sha256:51aa4ca7b7328be7145ebacf1fcf8ab85d47cd7baf1a716c5e3ac236892ef88b'}
   - {seq: 1, role: markers, filename: assets/KR6j0277_001.markers.yaml, hash: 'sha256:51d22f6f2c1d06e9231912c31a3fba96df778b46456420135084e33de07cab8e'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 十一面神呪心經
   type: juan
   level: 1
-hash: sha256:62d3e87ec24e8879e6127d41c7bda2e0f0b38023317277d08a07dd186444d9c0
+hash: sha256:0b3e9831f0a07bbe6a0c9f06bf39a41f92e6089ff7d6c2ac53eb9a3d7c790a4d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
